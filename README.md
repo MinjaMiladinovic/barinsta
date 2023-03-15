@@ -1,4 +1,4 @@
-[![CodeScene Code Health](https://test-env.enterprise.codescene.io/1/status-badges/code-health?component-name=codescene%2Fcloud)](https://test-env.enterprise.codescene.io/1/analyses/latest/architecture/biomarkers?component=codescene%2Fcloud)
+[![CodeScene System Mastery](https://test-env.enterprise.codescene.io/1/status-badges/system-mastery)](https://test-env.enterprise.codescene.io/1/analyses/latest/dashboard)
 
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
