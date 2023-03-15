@@ -1,4 +1,4 @@
-[![CodeScene Missed Goals](https://test-env.enterprise.codescene.io/1/status-badges/missed-goals)](https://test-env.enterprise.codescene.io/1/analyses/latest/dashboard)
+
 
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
