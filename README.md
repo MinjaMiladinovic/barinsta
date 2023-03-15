@@ -1,4 +1,4 @@
-[![CodeScene System Mastery](https://test-env.enterprise.codescene.io/1/status-badges/system-mastery)](https://test-env.enterprise.codescene.io/1/analyses/latest/dashboard)
+[![CodeScene Code Health](https://test-env.enterprise.codescene.io/1/status-badges/code-health)](https://test-env.enterprise.codescene.io/1/analyses/latest/dashboard)
 
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
