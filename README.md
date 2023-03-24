@@ -8,6 +8,8 @@
 
 [![CodeScene Code Health](https://staging.codescene.io/projects/29123/status-badges/code-health?component-name=src%2Fgithub)](https://staging.codescene.io/projects/29123/architecture/biomarkers?component=src%2Fgithub)
 
+[![CodeScene Code Health](https://staging.codescene.io/projects/29123/status-badges/code-health)](https://staging.codescene.io/projects/29123)
+
 
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
