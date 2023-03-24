@@ -1,3 +1,5 @@
+[![CodeScene Code Health](https://staging.codescene.io/projects/29123/status-badges/code-health?component-name=src%2Ftest)](https://staging.codescene.io/projects/29123/architecture/biomarkers?component=src%2Ftest)
+
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
 <img src="./app/src/main/ic_launcher-round.png" alt="Barinsta logo" align="right" width="20%"/>
