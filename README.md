@@ -3,6 +3,7 @@
 [![CodeScene Code Health](https://staging.codescene.io/projects/29123/status-badges/code-health?component-name=src%2FandroidTest)](https://staging.codescene.io/projects/29123/architecture/biomarkers?component=src%2FandroidTest)
 
 [![CodeScene System Mastery](https://staging.codescene.io/projects/29123/status-badges/system-mastery?component-name=src%2FandroidTest)](https://staging.codescene.io/projects/29123/)
+[![CodeScene System Mastery](https://staging.codescene.io/projects/29123/status-badges/system-mastery?component-name=src%2Fgithub)](https://staging.codescene.io/projects/29123/)
 
 ### THERE ARE CURRENTLY NO OFFICIAL GOOGLE PLAY RELEASES. PLEASE REPORT ANY OCCURRENCES TO US.
 
